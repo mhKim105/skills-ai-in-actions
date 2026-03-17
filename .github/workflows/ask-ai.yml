@@ -4,7 +4,8 @@ on:
 
 permissions:
   models: read
-  jobs:
+
+jobs:
   ask-ai:
     runs-on: ubuntu-latest
 
